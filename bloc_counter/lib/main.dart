@@ -1,8 +1,5 @@
 import 'package:bloccounter/screens/counter-page.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
-
-import 'screens/counter-bloc.dart';
 
 void main() => runApp(MyApp());
 
