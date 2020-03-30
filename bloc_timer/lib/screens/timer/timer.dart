@@ -1,5 +1,5 @@
-import 'package:bloctimer/bloc/bloc.dart';
-import 'package:bloctimer/screens/components/actions.dart';
+import 'package:bloctimer/screens/timer/bloc/bloc.dart';
+import 'package:bloctimer/screens/timer/components/actions.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
