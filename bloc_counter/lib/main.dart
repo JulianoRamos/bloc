@@ -1,4 +1,4 @@
-import 'package:bloccounter/screens/counter-page.dart';
+import 'package:bloccounter/screens/counter/counter-page.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
